@@ -1,0 +1,8 @@
+streamlit==1.28.1
+langchain-google-genai>=0.0.8
+langgraph>=0.0.60
+scikit-learn>=1.0.0
+numpy<1.26,>=1.21
+faiss-cpu
+pypdf==3.17.4
+python-dotenv==1.0.0
